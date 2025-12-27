@@ -8,24 +8,24 @@
 
 ---
 
-# Hi there, I'm Youssif Ahmed Abdallah! 👋
+# Hi there, I'm Youssif Ahmed Abdallah!
 
 ### Data Scientist 📊 | AI & ML Enthusiast 🤖 | Lifelong Learner 🚀
 
 I'm a Data Scientist and AI/ML enthusiast who loves discovering stories hidden in data and creating smart solutions. I'm always open to learning more, sharing ideas, and working with inspiring people.
 
 🔍 **What drives me:**
-- 📊 Transforming raw data into meaningful insights
-- 🤖 Building intelligent solutions with machine learning
-- 💡 Solving complex problems through data-driven approaches
-- 🌱 Continuously learning and exploring new technologies
-- 🎯 Creating impactful projects that make a difference
+- Transforming raw data into meaningful insights
+- Building intelligent solutions with machine learning
+- Solving complex problems through data-driven approaches
+- Continuously learning and exploring new technologies
+- Creating impactful projects that make a difference
 
 I believe in the power of data to tell stories and drive decisions. My journey combines analytical thinking with creative problem-solving to build scalable, efficient solutions.
 
 
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <div>
   
@@ -60,7 +60,7 @@ I believe in the power of data to tell stories and drive decisions. My journey c
 
 
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussifAhmed66&theme=tokyonight" alt="GitHub Streak"/>
@@ -71,7 +71,7 @@ I believe in the power of data to tell stories and drive decisions. My journey c
 <br/>
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -87,7 +87,7 @@ I believe in the power of data to tell stories and drive decisions. My journey c
 
 <div align="center">
   
-### 💭 *"Data is the new oil, but insights are the refined fuel that powers innovation."*
+### *"Data is the new oil, but insights are the refined fuel that powers innovation."*
 
 </div>
 
